@@ -1,0 +1,201 @@
+﻿Order ID,Date,Region,Category,Product,Units Sold,Unit Price,Total Sales
+1001,05-01-2026,North,Electronics,Headphones,12,89.99,1079.88
+1002,06-01-2026,South,Clothing,T-Shirt,45,19.99,899.55
+1003,07-01-2026,East,Home,Desk Lamp,8,34.5,276
+1004,08-01-2026,West,Electronics,Smart Watch,15,199,2985
+1005,09-01-2026,North,Grocery,Coffee Beans,60,12.75,765
+1006,10-01-2026,South,Electronics,Laptop,5,899,4495
+1007,11-01-2026,East,Clothing,Jeans,22,49.5,1089
+1008,12-01-2026,West,Grocery,Olive Oil,30,14.25,427.5
+1009,13-01-2026,North,Home,Throw Pillow,18,24.99,449.82
+1010,14-01-2026,South,Clothing,Jacket,9,79.99,719.91
+1011,15-01-2026,East,Electronics,Keyboard,25,59.99,1499.75
+1012,16-01-2026,West,Home,Coffee Maker,7,69.5,486.5
+1013,17-01-2026,North,Clothing,Sneakers,14,89,1246
+1014,18-01-2026,South,Grocery,Granola,40,8.99,359.6
+1015,19-01-2026,East,Home,Curtains,6,39.99,239.94
+1016,20-01-2026,West,Electronics,Monitor,11,149,1639
+1017,21-01-2026,North,Grocery,Tea Box,33,11.5,379.5
+1018,22-01-2026,South,Home,Bed Sheets,10,44.99,449.9
+1019,23-01-2026,East,Clothing,Dress,13,64.99,844.87
+1020,24-01-2026,West,Grocery,Honey,27,16.75,452.25
+1021,25-01-2026,North,Electronics,Webcam,16,79,1264
+1022,26-01-2026,South,Clothing,Sweater,20,54.99,1099.8
+1023,27-01-2026,East,Home,Rug,4,129,516
+1024,28-01-2026,West,Electronics,Speakers,9,119.99,1079.91
+1025,29-01-2026,North,Grocery,Pasta,50,3.99,199.5
+1026,30-01-2026,South,Home,Vacuum,3,179,537
+1027,02-02-2026,East,Electronics,Tablet,8,329,2632
+1028,03-02-2026,West,Clothing,Scarf,35,18.99,664.65
+1029,04-02-2026,North,Home,Candle Set,21,22.5,472.5
+1030,05-02-2026,South,Grocery,Rice Bag,42,10.99,461.58
+1031,06-02-2026,East,Clothing,Blazer,7,119,833
+1032,07-02-2026,West,Electronics,Router,12,89,1068
+1033,08-02-2026,North,Grocery,Juice Pack,55,6.5,357.5
+1034,09-02-2026,South,Home,Storage Box,19,15.99,303.81
+1035,10-02-2026,East,Electronics,Earbuds,28,49.99,1399.72
+1036,11-02-2026,West,Clothing,Shorts,32,24.99,799.68
+1037,12-02-2026,North,Home,Picture Frame,24,12.99,311.76
+1038,13-02-2026,South,Grocery,Cereal,47,5.99,281.53
+1039,14-02-2026,East,Home,Air Purifier,5,149,745
+1040,15-02-2026,West,Electronics,Power Bank,38,29.99,1139.62
+1041,16-02-2026,North,Clothing,Hoodie,17,44.99,764.83
+1042,17-02-2026,South,Home,Towels,26,12.99,337.74
+1043,18-02-2026,East,Grocery,Bread,65,4.5,292.5
+1044,19-02-2026,West,Clothing,Pants,13,39.99,519.87
+1045,20-02-2026,North,Electronics,Camera,6,549,3294
+1046,21-02-2026,South,Grocery,Eggs,80,3.99,319.2
+1047,22-02-2026,East,Home,Blanket,9,59.99,539.91
+1048,23-02-2026,West,Clothing,Hat,44,16.99,747.56
+1049,24-02-2026,North,Home,Lamp Set,11,37.5,412.5
+1050,25-02-2026,South,Electronics,Printer,4,189,756
+1051,26-02-2026,East,Grocery,Spices,36,7.49,269.64
+1052,27-02-2026,West,Home,Bookshelf,3,149,447
+1053,28-02-2026,North,Clothing,Tank Top,58,12.99,753.42
+1054,02-03-2026,South,Grocery,Flour,49,3.75,183.75
+1055,03-03-2026,East,Electronics,Mouse,34,24.99,849.66
+1056,04-03-2026,West,Home,Mirror,6,89,534
+1057,05-03-2026,North,Grocery,Juice,70,4.99,349.3
+1058,06-03-2026,South,Clothing,Leggings,29,34.99,1014.71
+1059,07-03-2026,East,Home,Desk Chair,5,229,1145
+1060,08-03-2026,West,Electronics,USB Hub,41,39.99,1639.59
+1061,09-03-2026,North,Home,Wall Clock,15,29.99,449.85
+1062,10-03-2026,South,Clothing,Raincoat,8,69.99,559.92
+1063,11-03-2026,East,Grocery,Nuts,23,14.99,344.77
+1064,12-03-2026,West,Home,Toaster,12,39.99,479.88
+1065,13-03-2026,North,Electronics,SSD Drive,19,129,2451
+1066,14-03-2026,South,Grocery,Pickles,31,5.49,170.19
+1067,15-03-2026,East,Clothing,Tie,52,15.99,831.48
+1068,16-03-2026,West,Home,Floor Lamp,7,59.99,419.93
+1069,17-03-2026,North,Grocery,Coffee Pods,63,11.99,755.37
+1070,18-03-2026,South,Electronics,Keyboard Case,16,44.99,719.84
+1071,19-03-2026,East,Home,Cushions,20,19.99,399.8
+1072,20-03-2026,West,Clothing,Cardigan,10,59.99,599.9
+1073,21-03-2026,North,Grocery,Syrup,28,9.99,279.72
+1074,22-03-2026,South,Home,Desk Organizer,25,17.99,449.75
+1075,23-03-2026,East,Electronics,VR Headset,3,399,1197
+1076,24-03-2026,West,Grocery,Crackers,54,3.49,188.46
+1077,25-03-2026,North,Clothing,Swimsuit,21,39.99,839.79
+1078,26-03-2026,South,Home,Plant Pots,33,11.99,395.67
+1079,27-03-2026,East,Grocery,Oatmeal,46,6.99,321.54
+1080,28-03-2026,West,Electronics,Game Controller,18,69.99,1259.82
+1081,29-03-2026,North,Home,Throw Blanket,14,34.99,489.86
+1082,30-03-2026,South,Clothing,Belt,37,24.99,924.63
+1083,31-03-2026,East,Grocery,Chocolate,68,5.99,407.32
+1084,01-04-2026,West,Home,Nightstand,4,119,476
+1085,02-04-2026,North,Electronics,Bluetooth Speaker,23,49.99,1149.77
+1086,03-04-2026,South,Grocery,Tomato Sauce,57,4.49,255.93
+1087,04-04-2026,East,Clothing,Overalls,7,74.99,524.93
+1088,05-04-2026,West,Home,Wine Rack,9,54.99,494.91
+1089,06-04-2026,North,Grocery,Pancake Mix,48,4.99,239.52
+1090,07-04-2026,South,Electronics,Smart Bulb,40,19.99,799.6
+1091,08-04-2026,East,Home,Curtain Rod,11,32.99,362.89
+1092,09-04-2026,West,Clothing,Windbreaker,6,89.99,539.94
+1093,10-04-2026,North,Grocery,Peanut Butter,39,6.99,272.61
+1094,11-04-2026,South,Home,Bath Mat,30,13.99,419.7
+1095,12-04-2026,East,Electronics,Headset Stand,27,29.99,809.73
+1096,13-04-2026,West,Grocery,Coconut Water,62,5.49,340.38
+1097,14-04-2026,North,Clothing,Pajama Set,12,49.99,599.88
+1098,15-04-2026,South,Home,Shoe Rack,8,44.99,359.92
+1099,16-04-2026,East,Grocery,Yogurt,73,4.49,327.77
+1100,17-04-2026,West,Electronics,Laptop Stand,21,39.99,839.79
+1101,18-04-2026,North,Home,Entry Mat,43,18.99,816.57
+1102,19-04-2026,South,Clothing,Kimono,5,119,595
+1103,20-04-2026,East,Grocery,Mustard,38,3.99,151.62
+1104,21-04-2026,West,Home,Ceiling Fan,3,159,477
+1105,22-04-2026,North,Electronics,Wifi Extender,17,69.99,1189.83
+1106,23-04-2026,South,Grocery,Popcorn,66,3.49,230.34
+1107,24-04-2026,East,Clothing,Denim Shirt,15,44.99,674.85
+1108,25-04-2026,West,Home,Storage Bins,32,14.99,479.68
+1109,26-04-2026,North,Grocery,Balsamic Vinegar,26,11.99,311.74
+1110,27-04-2026,South,Electronics,Digital Camera Case,13,24.99,324.87
+1111,28-04-2026,East,Home,Sheer Curtains,10,26.99,269.9
+1112,29-04-2026,West,Clothing,Beanie,51,14.99,764.49
+1113,30-04-2026,North,Grocery,Brown Rice,44,7.99,351.56
+1114,01-05-2026,South,Home,Ottoman,4,99,396
+1115,02-05-2026,East,Electronics,Drawing Tablet,7,199,1393
+1116,03-05-2026,West,Grocery,Almond Milk,58,4.99,289.42
+1117,04-05-2026,North,Clothing,Track Pants,19,39.99,759.81
+1118,05-05-2026,South,Home,Wall Art,12,49.99,599.88
+1119,06-05-2026,East,Grocery,Chicken Broth,35,4.49,157.15
+1120,07-05-2026,West,Electronics,Smart Plug,29,19.99,579.71
+1121,08-05-2026,North,Home,Duvet Set,6,79.99,479.94
+1122,09-05-2026,South,Clothing,Chinos,14,54.99,769.86
+1123,10-05-2026,East,Grocery,Quinoa,37,8.99,332.63
+1124,11-05-2026,West,Home,Accent Chair,2,199,398
+1125,12-05-2026,North,Electronics,Phone Case,75,14.99,1124.25
+1126,13-05-2026,South,Grocery,Salsa,53,4.99,264.47
+1127,14-05-2026,East,Clothing,Trench Coat,4,149,596
+1128,15-05-2026,West,Home,Kitchen Island,1,449,449
+1129,16-05-2026,North,Grocery,Olives,42,6.99,293.58
+1130,17-05-2026,South,Electronics,Projector,3,499,1497
+1131,18-05-2026,East,Home,Scented Candles,28,19.99,559.72
+1132,19-05-2026,West,Clothing,Polo Shirt,36,34.99,1259.64
+1133,20-05-2026,North,Grocery,Dried Fruit,31,7.99,247.69
+1134,21-05-2026,South,Home,Ladder,2,119,238
+1135,22-05-2026,East,Electronics,Keyboard Wrist Rest,47,14.99,704.53
+1136,23-05-2026,West,Grocery,Sparkling Water,85,2.99,254.15
+1137,24-05-2026,North,Clothing,Puffer Vest,6,99,594
+1138,25-05-2026,South,Home,Bar Stools,9,79.99,719.91
+1139,26-05-2026,East,Grocery,Soy Sauce,32,5.99,191.68
+1140,27-05-2026,West,Electronics,Microphone,8,119,952
+1141,28-05-2026,North,Home,Shower Curtain,24,17.99,431.76
+1142,29-05-2026,South,Clothing,Cargo Shorts,27,34.99,944.73
+1143,30-05-2026,East,Grocery,Trail Mix,39,9.99,389.61
+1144,01-06-2026,West,Home,Recliner,1,349,349
+1145,02-06-2026,North,Electronics,Security Camera,11,79.99,879.89
+1146,03-06-2026,South,Grocery,Corn Tortillas,61,3.99,243.39
+1147,04-06-2026,East,Clothing,Skirt,18,39.99,719.82
+1148,05-06-2026,West,Home,Jewelry Box,13,24.99,324.87
+1149,06-06-2026,North,Grocery,Instant Ramen,90,1.99,179.1
+1150,07-06-2026,South,Electronics,Tablet Case,34,19.99,679.66
+1151,08-06-2026,East,Home,Throw Pillows (Set),22,24.99,549.78
+1152,09-06-2026,West,Clothing,Linen Shirt,11,49.99,549.89
+1153,10-06-2026,North,Grocery,Maple Syrup,20,14.99,299.8
+1154,11-06-2026,South,Home,Underbed Storage,16,49.99,799.84
+1155,12-06-2026,East,Electronics,USB-C Cable,64,12.99,831.36
+1156,13-06-2026,West,Grocery,Canned Soup,59,3.49,205.91
+1157,14-06-2026,North,Clothing,Wool Socks,77,9.99,769.23
+1158,15-06-2026,South,Home,Bathroom Scale,10,29.99,299.9
+1159,16-06-2026,East,Grocery,BBQ Sauce,33,5.49,181.17
+1160,17-06-2026,West,Electronics,GPS Tracker,5,89,445
+1161,18-06-2026,North,Home,Command Hooks,92,6.99,643.08
+1162,19-06-2026,South,Clothing,Fleece Jacket,9,69.99,629.91
+1163,20-06-2026,East,Grocery,Protein Bars,45,13.99,629.55
+1164,21-06-2026,West,Home,Desk Mat,26,24.99,649.74
+1165,22-06-2026,North,Electronics,Card Reader,31,29.99,929.69
+1166,23-06-2026,South,Grocery,Bagels,70,3.49,244.3
+1167,24-06-2026,East,Clothing,Turtleneck,12,39.99,479.88
+1168,25-06-2026,West,Home,Closet Organizer,17,44.99,764.83
+1169,26-06-2026,North,Grocery,Pomegranate,29,8.99,260.71
+1170,27-06-2026,South,Electronics,Streaming Stick,18,49.99,899.82
+1171,28-06-2026,East,Home,Memory Foam Pillow,14,39.99,559.86
+1172,29-06-2026,West,Clothing,Flannel Shirt,16,44.99,719.84
+1173,30-06-2026,North,Grocery,Ghee,24,10.99,263.76
+1174,02-07-2026,South,Home,Cordless Vacuum Parts,13,59.99,779.87
+1175,03-07-2026,East,Electronics,Smart Lock,5,149,745
+1176,04-07-2026,West,Grocery,Kombucha,47,5.99,281.53
+1177,05-07-2026,North,Clothing,Sun Hat,38,19.99,759.62
+1178,06-07-2026,South,Home,Air Plant Kit,21,24.99,524.79
+1179,07-07-2026,East,Grocery,Basmati Rice,40,9.99,399.6
+1180,08-07-2026,West,Electronics,Drone,2,699,1398
+1181,09-07-2026,North,Home,Velvet Curtains,7,129,903
+1182,10-07-2026,South,Clothing,Cropped Jacket,15,64.99,974.85
+1183,11-07-2026,East,Grocery,Frozen Berries,56,6.99,391.44
+1184,12-07-2026,West,Home,Garment Rack,3,89,267
+1185,13-07-2026,North,Electronics,Smart Speaker Mini,60,34.99,2099.4
+1186,14-07-2026,South,Grocery,Teriyaki Sauce,34,5.49,186.66
+1187,15-07-2026,East,Clothing,Suit,3,249,747
+1188,16-07-2026,West,Home,Knife Block,8,59.99,479.92
+1189,17-07-2026,North,Grocery,Couscous,27,6.99,188.73
+1190,18-07-2026,South,Electronics,Mechanical Keyboard,12,119,1428
+1191,19-07-2026,East,Home,Standing Desk,2,379,758
+1192,20-07-2026,West,Clothing,Bomber Jacket,6,99,594
+1193,21-07-2026,North,Grocery,Hazelnut Spread,30,7.99,239.7
+1194,22-07-2026,South,Home,Fruit Bowl,23,14.99,344.77
+1195,23-07-2026,East,Electronics,Smart Thermostat,4,179,716
+1196,24-07-2026,West,Grocery,Vegetable Oil,41,7.49,307.09
+1197,25-07-2026,North,Clothing,Bathrobe,11,49.99,549.89
+1198,26-07-2026,South,Home,Magnetic Spice Rack,25,19.99,499.75
+1199,27-07-2026,East,Grocery,Sardines,43,4.99,214.57
+1200,28-07-2026,West,Electronics,Noise-Cancelling Mic,9,129,1161
